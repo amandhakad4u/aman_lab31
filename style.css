@@ -1,0 +1,40 @@
+body {
+            
+    align-content: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #d34343;
+    background-image: url('IMG.jpg')
+    ;
+    background-size: cover;
+}
+
+
+
+div {
+    background-color: #fa7e7e;
+    border-radius: 5px;
+    padding: 20px;
+    width: 320px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 30px #df0d0d;
+}
+input {
+    background-color: #92e7b6;
+    position:absolute;
+    left: 610px;
+    align-items: right;
+    
+}
+#billTotal {
+    background-color: #fffefe;
+    position:absolute;
+    left: 610px;
+    align-items: right;
+    
+}
+
+
+h5,h1 {
+    text-align: center;
+  }
